@@ -1,13 +1,13 @@
 # Unleash the Power of Azure Open AI
 
 1. [Introduction](#introduction)
-1. [Solution Overview](/docs/1-introduction.md)
+1. [Solution Overview](./docs/1-introduction.md)
 1. [Deploy to Azure](#deploy-to-azure)
-1. [Run from your local machine](/docs/3-run-locally.md)
-1. [Deploy to Azure with GitHub Actions](/docs/4-deploy-to-azure.md)
-1. [Add identity provider](/docs/5-add-identity.md)
-1. [Chatting with your file](/docs/6-chat-over-file.md)
-1. [Environment variables](/docs/7-environment-variables.md)
+1. [Run from your local machine](./docs/3-run-locally.md)
+1. [Deploy to Azure with GitHub Actions](./docs/4-deploy-to-azure.md)
+1. [Add identity provider](./docs/5-add-identity.md)
+1. [Chatting with your file](./docs/6-chat-over-file.md)
+1. [Environment variables](./docs/7-environment-variables.md)
 
 # Introduction
 
@@ -27,7 +27,7 @@ Benefits are:
 
 # Deploy to Azure
 
-You can provision Azure resources for the solution accelerator using either the Azure Developer CLI or the Deploy to Azure button below. Regardless of the method you chose you will still need set up an [identity provider and specify an admin user](/docs/5-add-identity.md)
+You can provision Azure resources for the solution accelerator using either the Azure Developer CLI or the Deploy to Azure button below. Regardless of the method you chose you will still need set up an [identity provider and specify an admin user](./docs/5-add-identity.md)
 
 ## Deployment Options
 
@@ -48,7 +48,7 @@ You can deploy the application using one of the following options:
 ### 2. Azure Portal Deployment
 
 > **Warning**
-> This button will only create Azure resources. You will still need to deploy the application by following the [deploy to Azure section](/docs/4-deploy-to-azure.md) to build and deploy the application using GitHub actions.
+> This button will only create Azure resources. You will still need to deploy the application by following the [deploy to Azure section](./docs/4-deploy-to-azure.md) to build and deploy the application using GitHub actions.
 
 Click on the Deploy to Azure button to deploy the Azure resources for the application.
 
@@ -57,9 +57,9 @@ Click on the Deploy to Azure button to deploy the Azure resources for the applic
 ## Setup Authentication
 
 > **Important**
-> The application is protected by an identity provider and follow the steps in [Add an identity provider](/docs/5-add-identity.md) section for adding authentication to your app.
+> The application is protected by an identity provider and follow the steps in [Add an identity provider](./docs/5-add-identity.md) section for adding authentication to your app.
 
-[Next](/docs/1-introduction.md)
+[Next](./docs/1-introduction.md)
 
 # Contributing
 
