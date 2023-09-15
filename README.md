@@ -48,7 +48,7 @@ You can deploy the application using one of the following options:
 ### 2. Azure Portal Deployment
 
 > **Warning**
-> This button will only create Azure resources. You will still need to deploy the application by following the <a href="~/docs/4-deploy-to-azure.md">deploy to Azure section</a> to build and deploy the application using GitHub actions.
+> This button will only create Azure resources. You will still need to deploy the application by following the <a href="../docs/4-deploy-to-azure.md">deploy to Azure section</a> to build and deploy the application using GitHub actions.
 
 Click on the Deploy to Azure button to deploy the Azure resources for the application.
 
